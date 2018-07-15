@@ -1,0 +1,59 @@
+html {
+    width: 200px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+body {
+    width: 80%;
+    text-align: left;
+    margin: 0 auto;
+}
+
+button {
+    height: 25px;
+    width: 50px;
+    outline: none;
+}
+
+/* list tab */
+#list-open {
+    font-size: 15px;
+}
+
+#list-container {
+    margin-top: 3px;
+}
+
+.id-list-item {
+    margin-left: -10px;
+    margin-top: 5px;
+}
+
+/* add tab */
+.add-container {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.add-id-input {
+    width: 100px;
+    vertical-align: middle;
+}
+
+#add-button {
+    color: #56e57d;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.delete-button {
+    color: red;
+}
+
+#apply-button {
+}
+
+#cancel-button {
+}
